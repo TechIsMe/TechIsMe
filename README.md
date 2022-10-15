@@ -4,7 +4,7 @@ Self-motivated and hard-working individual with experience in HTML, CSS/Bootstra
 
 Skills:    HTML / CSS / JS / REACT
 
-- 🔭 I’m currently working on this page. 
+
 - 📫 How to reach me: bruktawit2wolde@gmail.com 
 - 😄 Pronouns: She /Her 
 
